@@ -1,4 +1,4 @@
-# MINDS-14_Speech_Recognition
+# MINDS-14 Speech Recognition
 
 Speech recognition is a methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR). ASR help human for interacting to computer by gives the machine to understand what was said and its speech patterns, speaking styles, dialects, accents and phrases.
 
@@ -24,3 +24,7 @@ Fine tuning Whisper models for speech recognition.
 
 An end-to-end pipeline from ASR to intent classification.
 
+## Result
+Whisper Medium
+
+![alt text](https://github.com/andreanstev/MINDS-14_Speech_Recognition/blob/main/image/Screenshot%202024-08-07%20151109.png?raw=true)
